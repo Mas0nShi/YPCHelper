@@ -50,6 +50,7 @@
 		93030435295D647200666FC2 /* Request.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Request.swift; sourceTree = "<group>"; };
 		93030437295D6BD700666FC2 /* Utility.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Utility.swift; sourceTree = "<group>"; };
 		9303043A295D77BF00666FC2 /* RunTask.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RunTask.swift; sourceTree = "<group>"; };
+		932D6A13295D8EC100B03AFC /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		93B866D5295B299400E2023C /* ypcReport.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ypcReport.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		93B866D8295B299400E2023C /* ypcReportApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ypcReportApp.swift; sourceTree = "<group>"; };
 		93B866DA295B299400E2023C /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -108,6 +109,7 @@
 		93B866CC295B299400E2023C = {
 			isa = PBXGroup;
 			children = (
+				932D6A13295D8EC100B03AFC /* README.md */,
 				93030439295D6C0900666FC2 /* Core */,
 				9303043D295D8A8500666FC2 /* SiriKit */,
 				9303043C295D8A7000666FC2 /* Entry */,
